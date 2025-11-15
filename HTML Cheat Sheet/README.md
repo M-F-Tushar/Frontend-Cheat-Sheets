@@ -1373,9 +1373,3 @@ These tags still work but are **outdated**. Use CSS instead:
 </body>
 </html>
 ```
-
----
-
-**Happy Coding! 🚀**
-
-Now you have a **complete** HTML reference covering all major tags!
